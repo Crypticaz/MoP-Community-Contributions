@@ -1,1 +1,0 @@
-# Emucoach MoP Contributions
