@@ -1,0 +1,5 @@
+[Quest] Unexpected Results(8488), Eversong Woods
+
+[Problem] Nothing happens when picking up the quest. Also quest seems to be autocomplete
+
+[Expected Behavior] An encounter is supposed to start. Take a look at it here: https://www.youtube.com/watch?v=dgupKoO6hRA

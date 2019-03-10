@@ -1,0 +1,5 @@
+[Quest] Powering our Defenses (8490), Eversong Woods.
+
+[Problem] Summon the crystal is suppose to trigger an event. Summon crystal does nothing, no event, etc.
+
+[Expected Behavior] Take a look at: https://www.youtube.com/watch?v=Z35jX6F0uY4
