@@ -1,0 +1,1 @@
+NPCs who are supposed to appear dead do not. Within creature_template_addon you're supposed to set byte1 to 7 (Shows health bar as empty combine with the state dead emote to make a creature look dead). This does not work, maybe core issue?
